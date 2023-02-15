@@ -1,0 +1,63 @@
+/* styling av alle knappene */
+.buttons {
+
+    border-radius: 5px;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 18px;
+
+}
+
+/* styling av slutt containeren */
+.endContainer {
+
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+    
+    width: 800px;
+    height: 400px;
+    opacity: 0.8;
+    
+}
+
+/* styling av slutt teksten */
+.endTekst {
+
+    display: none;
+    padding-top: 150px;
+    font-size: 20px;
+
+}
+
+/* styling av tilbakestill knappen */
+.restart {
+
+    display: none;
+    margin-left: 363px;
+
+}
+
+/* styling av alle tekster */
+.tekster {
+
+    font-size: 18px;
+
+}
+
+/* styling av containeren til regler */
+.reglerContainer {
+
+    display: none;
+    width: 300px;
+    height: 320px;
+    border-radius: 10px;
+
+}
+
+/* styling av regel teksten i containeren */
+.reglerTekst {
+
+    font-size: 17px;
+
+}
